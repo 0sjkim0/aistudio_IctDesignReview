@@ -1,0 +1,8 @@
+{
+  "name": "Remix 정보통신설비 설계도서 기술 검토 Agent v4",
+  "description": "정보통신설비 설계기준 및 표준품셈 기반 공사시방서 기술 검토, 조문 대조 판정, 통합 관리자 대시보드(사용현황·만족도·성능평가) 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
